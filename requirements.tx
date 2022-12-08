@@ -1,0 +1,16 @@
+asgiref @ file:///opt/conda/conda-bld/asgiref_1661287532135/work
+black @ file:///opt/conda/conda-bld/black_1660237809219/work
+certifi @ file:///croot/certifi_1665076670883/work/certifi
+click @ file:///tmp/build/80754af9/click_1646056706450/work
+distlib==0.3.6
+Django @ file:///opt/conda/conda-bld/django_1661296381686/work
+django-crispy-forms==1.14.0
+filelock==3.8.0
+gunicorn @ file:///home/builder/ci_310/gunicorn_1640790735087/work
+mypy-extensions==0.4.3
+pathspec @ file:///tmp/abs_1foqurpsov/croots/recipe/pathspec_1659627126545/work
+Pillow==9.3.0
+platformdirs==2.5.4
+python-decouple==3.6
+sqlparse @ file:///croot/sqlparse_1668793487206/work
+tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
