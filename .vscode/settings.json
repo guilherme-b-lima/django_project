@@ -1,0 +1,6 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.defaultInterpreterPath": "/anaconda3/envs/myenv/bin/python3",
+}
