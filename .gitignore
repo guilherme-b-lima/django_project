@@ -1,5 +1,7 @@
 # My files
-~/.vscode
+.vscode
+posts.json
+.env
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
